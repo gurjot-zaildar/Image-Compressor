@@ -33,9 +33,9 @@ const Home = () => {
       <div className="mx-auto max-w-7xl px-4">
         {/* Header */}
         <div className="mb-8 text-center">
-          <h1 className="text-4xl font-bold">Image Toolkit</h1>
+          <h1 className="text-4xl font-bold text-slate-900">Resize Photo Online</h1>
           <p className="mt-2 text-gray-600">
-            Compress, Resize, Crop, Rotate, Flip & Convert Images
+            Resize, compress, crop, rotate, flip, and convert your images for free in seconds.
           </p>
         </div>
 
